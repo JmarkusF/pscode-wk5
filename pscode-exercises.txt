@@ -46,6 +46,8 @@ for number in numbers
 if number > msximum 
 maximum = number 
 
+
+Print average "this is the average"
 print minimum "this is the minimum"
 print maximum "this is the  maximum"
 
