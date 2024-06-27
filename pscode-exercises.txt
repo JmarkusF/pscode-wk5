@@ -51,6 +51,9 @@ Print average "this is the average"
 print minimum "this is the minimum"
 print maximum "this is the  maximum"
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 836193c2e975be6d82359d4a54c215fc068691cb
 
 -- END --
